@@ -1,5 +1,5 @@
 # Greeting 
-<img src="https://static.wikia.nocookie.net/library-of-ruina/images/7/78/ChesedFullBody.png/revision/latest?cb=20200710235021" alt="Side Picture" width="15%" align="right" />
+<img src="https://static.wikia.nocookie.net/library-of-ruina/images/7/78/ChesedFullBody.png/revision/latest?cb=20200710235021" alt="Side Picture" width="18%" align="right" />
 
 Hi! I'm Sirawichaya or Sikeaw
 
