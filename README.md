@@ -21,6 +21,7 @@ Now, I interested at Java programming language
 ## My github stats
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SirachayaKaew&hide_progress=true)
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SirachayaKaew&hide_progress=true)
 
-![Sirachaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=SirachayaKaew&show_icons=true&theme=transparent)
+![Sirachaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=SirachayaKaew&show_icons=true&theme=transparent) -->
+
